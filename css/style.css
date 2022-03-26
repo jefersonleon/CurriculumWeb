@@ -1,0 +1,40 @@
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#1C1C1C;
+    color: white; /*cor da fonte*/
+}
+nav{
+    background-color: green;
+    margin: 20px 50px;
+    
+}
+nav p{
+    text-align: center;
+    color:red;
+    font-size: 30pt;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+}
+nav p span{
+    padding: 0px 40px 0px 40px;
+}
+main{
+    margin: 0px 50px;
+}
+main figure{
+    text-align: center;
+}
+main h2{
+    font-family: 'Hurricane', cursive;
+    text-align: center;
+    color:white;
+    font-size: 60pt;
+}
